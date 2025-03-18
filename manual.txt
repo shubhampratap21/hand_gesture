@@ -1,0 +1,11 @@
+Improved Gesture Recognition:
+
+Volume control: Distance between thumb and pinky
+
+Play/Pause: Two index fingers touching
+
+Skip Song: Right-hand thumbs up
+
+Rewind Song: Left-hand thumbs up
+
+Cooldown system to prevent accidental triggers
